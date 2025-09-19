@@ -1,7 +1,5 @@
-# HW-1-
+# HW-2-Alex-North
 
-HW 1 Fall 2025 Software Engineering / IPD 
+World's Fastest Camera Drone Vs F1 Car (ft. Max Verstappen)
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
-
-
+https://youtu.be/9pEqyr_uT-k?si=DWq44AnwAcTLgG5K
